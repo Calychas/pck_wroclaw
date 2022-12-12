@@ -1,0 +1,7 @@
+geopandas
+pandas
+keplergl
+ipykernel
+geopy
+pyarrow
+black
